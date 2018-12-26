@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 71bdd1dbfa278478691d285fa223906c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerMonster_0
+    21300002: PlayerMonster_1
+    21300004: PlayerMonster_2
+    21300006: PlayerMonster_3
+    21300008: PlayerMonster_4
+    21300010: PlayerMonster_5
+    21300012: PlayerMonster_6
+    21300014: PlayerMonster_7
+    21300016: PlayerMonster_8
+    21300018: PlayerMonster_9
+    21300020: PlayerMonster_10
+    21300022: PlayerMonster_11
+    21300024: PlayerMonster_12
+    21300026: PlayerMonster_13
+    21300028: PlayerMonster_14
+    21300030: PlayerMonster_15
+    21300032: PlayerMonster_16
+    21300034: PlayerMonster_17
+    21300036: PlayerMonster_18
+    21300038: PlayerMonster_19
+    21300040: PlayerMonster_20
+    21300042: PlayerMonster_21
+    21300044: PlayerMonster_22
+    21300046: PlayerMonster_23
+    21300048: PlayerMonster_24
+    21300050: PlayerMonster_25
+    21300052: PlayerMonster_26
+    21300054: PlayerMonster_27
+    21300056: PlayerMonster_28
+    21300058: PlayerMonster_29
+    21300060: PlayerMonster_30
+    21300062: PlayerMonster_31
+    21300064: PlayerMonster_32
+    21300066: PlayerMonster_33
+    21300068: PlayerMonster_34
+    21300070: PlayerMonster_35
+    21300072: PlayerMonster_36
+    21300074: PlayerMonster_38
+    21300076: PlayerMonster_39
+    21300078: PlayerMonster_40
+    21300080: PlayerMonster_41
+    21300082: PlayerMonster_42
+    21300084: PlayerMonster_43
+    21300086: PlayerMonster_44
+    21300088: PlayerMonster_45
+    21300090: PlayerMonster_46
+    21300092: PlayerMonster_47
+    21300094: PlayerMonster_48
+    21300096: PlayerMonster_49
+    21300098: PlayerMonster_50
+    21300100: PlayerMonster_51
+    21300102: PlayerMonster_52
+    21300104: PlayerMonster_53
+    21300106: PlayerMonster_54
+    21300108: PlayerMonster_55
+    21300110: PlayerMonster_56
+    21300112: PlayerMonster_57
+    21300114: PlayerMonster_58
+    21300116: PlayerMonster_59
+    21300118: PlayerMonster_60
+    21300120: PlayerMonster_61
+    21300122: PlayerMonster_62
+    21300124: PlayerMonster_63
+    21300126: PlayerMonster_64
+    21300128: PlayerMonster_65
+    21300130: PlayerMonster_66
+    21300132: PlayerMonster_67
+    21300134: PlayerMonster_68
+    21300136: PlayerMonster_69
+    21300138: PlayerMonster_70
+    21300140: PlayerMonster_71
+    21300142: PlayerMonster_72
+    21300144: PlayerMonster_73
+    21300146: PlayerMonster_74
+    21300148: PlayerMonster_75
+    21300150: PlayerMonster_76
+    21300152: PlayerMonster_77
+    21300154: PlayerMonster_78
+    21300156: PlayerMonster_79
+    21300158: PlayerMonster_80
+    21300160: PlayerMonster_81
+    21300162: PlayerMonster_82
+    21300164: PlayerMonster_83
+    21300166: PlayerMonster_84
+    21300168: PlayerMonster_85
+    21300170: PlayerMonster_86
+    21300172: PlayerMonster_87
+    21300174: PlayerMonster_88
+    21300176: PlayerMonster_89
+    21300178: PlayerMonster_90
+    21300180: PlayerMonster_91
+    21300182: PlayerMonster_92
+    21300184: PlayerMonster_93
+    21300186: PlayerMonster_94
+    21300188: PlayerMonster_95
+    21300190: PlayerMonster_96
+    21300192: PlayerMonster_97
+    21300194: PlayerMonster_98
+    21300196: PlayerMonster_99
+    21300198: PlayerMonster_100
+    21300200: PlayerMonster_101
+    21300202: PlayerMonster_102
+    21300204: PlayerMonster_103
+    21300206: PlayerMonster_104
+    21300208: PlayerMonster_105
+    21300210: PlayerMonster_106
+    21300212: PlayerMonster_107
+    21300214: PlayerMonster_108
+    21300216: PlayerMonster_109
+    21300218: PlayerMonster_110
+    21300220: PlayerMonster_111
+    21300222: PlayerMonster_112
+    21300224: PlayerMonster_113
+    21300226: PlayerMonster_114
+    21300228: PlayerMonster_115
+    21300230: PlayerMonster_116
+    21300232: PlayerMonster_117
+    21300234: PlayerMonster_118
+    21300236: PlayerMonster_119
+    21300238: PlayerMonster_120
+    21300240: PlayerMonster_121
+    21300242: PlayerMonster_122
+    21300244: PlayerMonster_123
+    21300246: PlayerMonster_124
+    21300248: PlayerMonster_125
+    21300250: PlayerMonster_126
+    21300252: PlayerMonster_127
+    21300254: PlayerMonster_129
+    21300256: PlayerMonster_130
+    21300258: PlayerMonster_131
+    21300260: PlayerMonster_132
+    21300262: PlayerMonster_133
+    21300264: PlayerMonster_134
+    21300266: PlayerMonster_135
+    21300268: PlayerMonster_136
+    21300270: PlayerMonster_137
+    21300272: PlayerMonster_138
+    21300274: PlayerMonster_139
+    21300276: PlayerMonster_140
+    21300278: PlayerMonster_141
+    21300280: PlayerMonster_142
+    21300282: PlayerMonster_143
+    21300284: PlayerMonster_144
+    21300286: PlayerMonster_146
+    21300288: PlayerMonster_147
+    21300290: PlayerMonster_148
+    21300292: PlayerMonster_150
+    21300294: PlayerMonster_151
+    21300296: PlayerMonster_152
+    21300298: PlayerMonster_153
+    21300300: PlayerMonster_154
+    21300302: PlayerMonster_155
+    21300304: PlayerMonster_156
+    21300306: PlayerMonster_158
+    21300308: PlayerMonster_159
+    21300310: PlayerMonster_160
+    21300312: PlayerMonster_161
+    21300314: PlayerMonster_162
+    21300316: PlayerMonster_163
+    21300318: PlayerMonster_164
+    21300320: PlayerMonster_165
+    21300322: PlayerMonster_166
+    21300324: PlayerMonster_167
+    21300326: PlayerMonster_168
+    21300328: PlayerMonster_169
+    21300330: PlayerMonster_170
+    21300332: PlayerMonster_171
+    21300334: PlayerMonster_172
+    21300336: PlayerMonster_173
+    21300338: PlayerMonster_174
+    21300340: PlayerMonster_175
+    21300342: PlayerMonster_176
+    21300344: PlayerMonster_177
+    21300346: PlayerMonster_178
+    21300348: PlayerMonster_179
+    21300350: PlayerMonster_181
+    21300352: PlayerMonster_182
+    21300354: PlayerMonster_183
+    21300356: PlayerMonster_184
+    21300358: PlayerMonster_185
+    21300360: PlayerMonster_186
+    21300362: PlayerMonster_187
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerMonster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1399.8334
+        height: 1159
+      alignment: 9
+      pivot: {x: 0.5712123, y: 0.6568412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb9fa93f02b412b8089135a358d746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerMonster_1
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 1399.8334
+        height: 1159
+      alignment: 9
+      pivot: {x: 0.6581505, y: 0.6665241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e9a83d88374b0f928a4948ca709f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerMonster_2
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 0
+        width: 1399.8334
+        height: 1159
+      alignment: 9
+      pivot: {x: 0.68653643, y: 0.6763197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc065b3c70f244c5f8b9bcb5ce81b613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerMonster_3
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 0
+        width: 1399.8334
+        height: 1159
+      alignment: 9
+      pivot: {x: 0.7433083, y: 0.6616264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21b0a05ba2f4d7bbdb534c8e0e046a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerMonster_4
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 0
+        width: 1399.8334
+        height: 1159
+      alignment: 9
+      pivot: {x: 0.7595289, y: 0.6812175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a554810b348c4a2ba19d7b4902cc544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerMonster_5
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 0
+        width: 1399.8334
+        height: 1159
+      alignment: 9
+      pivot: {x: 0.7189775, y: 0.6616264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37315d8a3f1b2462daddbf51ee1207cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8baf323beb8f348b784e400afda18e06
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
